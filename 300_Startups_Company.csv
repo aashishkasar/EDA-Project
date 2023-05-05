@@ -1,0 +1,301 @@
+,Name,city,started_in,number_of_funding_rounds,funding_amount,industries,Founders,Number of employees,Number of investors
+0,Urban Company, Gurgaon,2014,12,445920356," Apps, Home Services, Marketplace, Service Industry"," Abhiraj Singh Bhal, Raghav Chandra, Varun Khaitan", 1001-5000,16
+1,Classplus, Noida,2018,10,89506451," B2B, E-Learning, EdTech, Education, Mobile Apps, SaaS, Software"," Bhaswat Agarwal, Bikash Dash, Mukul Rustagi, Nikhil Goel, Vatsal Rustagi", 101-250,20
+2,Paytm, Noida,2010,4,32448851," E-Commerce, Finance, Financial Services, Internet, Mobile Apps, Mobile Payments"," Akshay Khanna, Vijay Shekhar Sharma", 501-1000,4
+3,Apna, Mumbai,2019,4,93450000," Employment, Human Resources, Recruiting, Staffing Agency", Nirmit Parikh, 101-250,6
+4,Razorpay, Bengaluru,2014,7,366600000," Financial Services, FinTech, Payments, Software"," Harshil Mathur, Shashank Kumar", 1001-5000,29
+5,UpGrad, Mumbai,2015,4,176283446," E-Learning, EdTech, Education"," Mayank Kumar, Phalgun Kompalli, Ravijot Chugh, Ronnie Screwvala", 1001-5000,4
+6,Delhivery, Gurgaon,2011,11,1236569361," E-Commerce, Freight Service, Last Mile Transportation, Logistics, Shipping, Supply Chain Management, Transportation, Warehousing"," Bhavesh Manglani, Kapil Bharati, Mohit Tandon, Sahil Barua, Suraj Saharan", 5001-10000,13
+7,1mg, Gurgaon,2015,16,204600209," Delivery, E-Commerce, Health Care, Internet, Medical, Pharmaceutical"," Anurag Mundhada, Gaurav Agarwal, Prashant Tandon, Sameer Maheshwari, Vikas Chauhan", 11-50,17
+8,BigBasket, Bengaluru,2011,17,1119863468," Delivery, Delivery Service, E-Commerce, Grocery, Internet, Retail, Shopping"," Abhinay Choudhari, Hari Menon, Vipul Parekh, VS Ramesh, VS Sudhakar", 5001-10000,17
+9,GoMechanic, Gurgaon,2016,8,59849371," Automotive, Customer Service, E-Commerce, Sales"," Amit Bhasin, Kushal Karwa, Nitin Rana, Puneet Gulati, Rishabh Karwa", 251-500,9
+10,Unacademy, Bengaluru,2015,11,398500000," E-Learning, EdTech, Education, Training"," Gaurav Munjal, Hemesh Singh, Roman Saini, Sachin Gupta", 251-500,36
+11,Ola, Kormangala,2010,25,3808672049," Apps, Internet, Mobile, Ride Sharing, Transportation"," Ankit Bhati, Bhavish Aggarwal", 5001-10000,45
+12,Licious, Bengaluru,2015,7,158589644," Delivery Service, E-Commerce, Food and Beverage, Food Delivery"," Abhay Hanjura, Vivek Gupta", 1001-5000,20
+13,CRED, Bengaluru,2018,6,471205550," Credit Cards, Financial Services, FinTech, Payments, Personal Finance", Kunal Shah, 251-500,28
+14,CityMall, Gurgaon,2019,5,37100000," Consumer Goods, E-Commerce, Lifestyle"," Angad Kikla, Divij Goyal, Naisheel Verdhan", 101-250,14
+15,Pine Labs, Noida,1998,8,423238799," Financial Services, FinTech, Information Technology, Payments"," Rajul Garg, Tarun Upaday", 1001-5000,15
+16,Dodla Dairy, Hyderabad,1995,3,71276176," Consumer Goods, Food and Beverage, Food Processing, Manufacturing", D. Sunil Reddy, 501-1000,13
+17,Groww, Bengaluru,2017,6,142262674," Financial Services, FinTech, Funding Platform, Impact Investing"," Harsh Jain, Ishan Bansal, Lalit Keshre, Neeraj Singh", 251-500,16
+18,Grofers, Gurgaon,2013,13,662398135," Delivery, E-Commerce, E-Commerce Platforms, Grocery, Retail"," Albinder Dhindsa, Saurabh Kumar", 1001-5000,13
+19,Jumbotail, Bengaluru,2015,8,55345400," E-Commerce, Food and Beverage, Grocery, Marketplace, Retail"," Ashish Jhina, Karthik Venkateswaran", 101-250,20
+20,slice, Bengaluru,2016,8,53665909," Banking, Financial Services, FinTech, Lending, Payments"," Deepak Malhotra, Rajan Bajaj", 251-500,20
+21,InMobi, Bengaluru,2007,7,320600000," Advertising, Advertising Platforms, Digital Media, Marketing, Mobile"," Abhay Singhal, Amit Gupta, Mohit Saxena, Naveen Tewari, Piyush Shah", 501-1000,6
+22,Dunzo, Bengaluru,2015,15,128399438," Delivery, Delivery Service, E-Commerce, Mobile, Mobile Apps"," Ankur Aggarwal, Dalvir Suri, Kabeer Biswas, Mukund Jha", 1001-5000,24
+23,BYJUâS, Bengaluru,2011,18,2745964432," E-Learning, EdTech, Education, Higher Education, Software"," Byju Raveendran, Divya Gokulnath", 10001+,38
+24,Cashfree, Bengaluru,2015,4,40920000," Finance, Financial Services, FinTech, Mobile Payments, Payments"," Akash Sinha, Reeju Datta", 251-500,6
+25,MediBuddy, Bengaluru,2000,5,67132379," Health Care, Health Insurance, Medical, mHealth", Satish Kannan, 1001-5000,12
+26,Progcap, New Delhi,2017,4,32324325," Enterprise, Finance, Financial Services, FinTech, Supply Chain Management", Pallavi Shrivastava, 11-50,9
+27,Capital Float, Bengaluru,2013,11,150417120," B2B, Financial Services, FinTech, Small and Medium Businesses"," Gaurav Hinduja, Sashank Rishyasringa", 51-100,12
+28,CARS24, Gurgaon,2015,5,393848044," Artificial Intelligence, Automotive, B2C, E-Commerce, Marketplace, Sales Automation, Software, Transaction Processing"," Gajendra Jangid, Mehul Agrawal, Ruchit Agarwal, Vikram Chopra", 1001-5000,21
+29,Bharat Biotech, Hyderabad,1996,3,14100000, Biotechnology," Krishna Ella, Suchitra Ella", 501-1000,3
+30,Skillmatics, Mumbai,2016,2,7419353," Children, Education"," Devanshi Kejriwal, Dhvanil Sheth", 11-50,2
+31,Rapido, Bengaluru,2015,9,121996807," Information Services, Mobile Apps, Public Transportation, Taxi Service, Transportation"," Aravind Sanka, Pavan Guntupalli, Rishikesh SR", 1001-5000,32
+32,Reliance Jio, Mumbai,2010,16,24767620475," Apps, Information Services, Internet, Telecommunications", Mukesh Ambani, 10001+,35
+33,YourStory, Bengaluru,2008,3,8469522," Information Technology, Internet, News, Public Relations, Publishing", Shradha Sharma, 101-250,6
+34,Kodo, Mumbai,2019,2,8736466," B2B, Financial Services, FinTech, Small and Medium Businesses"," Deepti Sanghi, Gaurav Thapa", 11-50,5
+35,Practo, Bengaluru,2008,7,228246376," Health Care, Health Diagnostics, Medical, mHealth, Mobile Apps, Pharmaceutical, Wellness"," Abhinav Lal, Shashank ND", 5001-10000,14
+36,NiYO Solutions, Bengaluru,2015,3,49200000," Finance, Financial Services, FinTech", Virender Bisht, 11-50,5
+37,Reliance Retail, Mumbai,2006,6,6419310306," Consumer Goods, Grocery, Retail", Mukesh Ambani, 10001+,8
+38,Locus.sh, Bengaluru,2015,6,78750000," Big Data, Data Visualization, Logistics, Software"," Geet Garg, Nishith Rastogi", 251-500,25
+39,KreditBee, Bengaluru,2018,3,11117000000," Financial Services, FinTech, Internet, Lending"," Karthikeyan Krishnaswamy, Madhusudan Ekambaram, Wan Hong", 1001-5000,7
+40,boAt, New Delhi,2016,6,116258656," Consumer Electronics, Fashion, Lifestyle, Wearables"," Aman Gupta, Sameer Mehta", 101-250,5
+41,Flipkart, Bengaluru,2007,24,9009184737," E-Commerce, Internet, Retail, Shopping"," Binny Bansal, Sachin Bansal", 10001+,24
+42,MobiKwik, Gurgaon,2009,15,165518505," Consumer Lending, Financial Services, FinTech, Lending, Mobile Payments, Payments, Wealth Management"," Bipin Singh, Chandan Joshi, Upasana Taku", 251-500,26
+43,Cuemath, Bengaluru,2013,5,64495265," E-Learning, EdTech, Education, STEM Education", Manan Khurma, 1001-5000,8
+44,Jai Kisan, Mumbai,2017,5,35400000," Agriculture, AgTech, Financial Services, FinTech"," Adriel Maniego, Arjun Ahluwalia", 11-50,18
+45,nfra.Market, Thane,2016,7,161545747," Construction, E-Commerce, Marketplace, Procurement"," Aaditya Sharda, Souvik Sengupta", 51-100,8
+46,Xpressbees, Pune,2015,8,277583000," Delivery Service, E-Commerce, Internet, Logistics, Supply Chain Management"," Amitava Saha, Supam Maheshwari", 10001+,11
+47,Northern Arc, Chennai,2008,11,383626249," Enterprise, Finance, Financial Services", Kshama Fernandes, 51-100,12
+48,Toppr, Mumbai,2013,11,112087670," E-Learning, EdTech, Education"," Hemanth Goteti, Zishaan Hayath", 1001-5000,14
+49,MyGlamm, Mumbai,2015,8,56035717," Beauty, Marketplace, Mobile Apps"," Darpan Sanghvi, Priyanka Gill", 101-250,14
+50,ZoomCar, Bengaluru,2012,20,274145634," Automotive, E-Commerce, Rental, Reservations, Transportation"," David Back, Greg Moran", 501-1000,36
+51,Snapdeal, Gurgaon,2010,13,1776260825," Consumer Electronics, E-Commerce, Internet, Marketplace, Retail, Shopping"," Kunal Bahl, Rohit Bansal", 1001-5000,26
+52,WhiteHat Education Technology, Andheri,2018,2,11294388, Education, Karan Bajaj, 101-250,3
+53,CarDekho, Gurgaon,2007,7,247500000," Automotive, E-Commerce, Information Services, Information Technology, Software"," Amit Jain, Anurag Jain", 501-1000,14
+54,Koo App, Bengaluru,2020,3,33997488," Apps, Internet, Social Media, Software"," Aprameya Radhakrishna, Mayank Bidawatka", 11-50,10
+55,Porter, Bengaluru,2014,6,32070087," E-Commerce, Internet, Logistics, Supply Chain Management"," Pranav Goel, Uttam Digga, Vikas Choudhary", 1001-5000,6
+56,Skyroot Aerospace, Hyderabad,2018,3,14938971," Aerospace, Transportation"," Naga Bharath Daka, Pawan Kumar Chandana", 11-50,9
+57,Holisol logistics, New Delhi,2009,5,27307486," Business Development, Logistics, Supply Chain Management"," Manish Ahuja, Naveen Rawat, Rahul Dogar", 51-100,4
+58,Exotel, Bengaluru,2011,4,12294124," Cloud Data Services, Messaging, Mobile Apps", Shivakumar Ganesan, 101-250,8
+59,CarTrade, Mumbai,2009,8,307351129," Auctions, Automotive, E-Commerce, Marketplace", Vinay Sanghi, 1001-5000,9
+60,OPEN, Bengaluru,2017,5,37400000," Banking, Billing, Finance, Financial Services, FinTech, Payments"," Ajeesh Achuthan, Anish Achuthan, Deena Jacon, Mabel Chacko", 251-500,13
+61,nCred, Mumbai,2016,8,254425980," Banking, Consumer Lending, Finance, Financial Services, FinTech, Lending", Bhupinder Singh, 1001-5000,17
+62,Pepperfry, Mumbai,2011,9,245341627," E-Commerce, Furniture, Marketplace, Retail"," Ambareesh Murty, Ashish Shah", 501-1000,8
+63,Shadowfax, Bengaluru,2015,6,119680000," Delivery Service, E-Commerce, Internet, Logistics, Supply Chain Management"," Abhishek Bansal, Vaibhav Khandelwal", 501-1000,13
+64,The Man Company, Gurgaon,2015,6,14128602," Beauty, Consumer Goods"," Bhisham Bhateja, Hitesh Dhingra, Parvesh Kumar", 101-250,5
+65,Agnikul, Chennai,2017,4,14543144," Aerospace, Manufacturing, Nanotechnology"," Moin SPM, Satyanarayanan Chakravarthy, Srinath Ravichandran", 51-100,17
+66,Shop101, Mumbai,2015,3,19879176," Apps, Consumer Goods, E-Commerce, Internet, Online Portals"," Abhinav Jain, Aditya Gupta, Kalpak Chhajed", 101-250,6
+67,Plum, Bengaluru,2019,5,20645163," Employee Benefits, Health Care, Health Insurance, Human Resources, Insurance"," Abhishek Poddar, Saurabh Arora", 11-50,23
+68,Pee Safe, Gurgaon,2013,6,9653620," Consumer Goods, Fast-Moving Consumer Goods, Fitness, Health Care, Wellness"," Dheeraj Jain, Srijana Bagaria, Vikas Bagaria", 101-250,16
+69,cure.fit, Bengaluru,2016,10,479575960," Apps, Fitness, Health Care, Wellness"," Ankit Nagori, Mukesh Bansal", 101-250,33
+70,Nykaa, Mumbai,2012,13,341858615," Beauty, E-Commerce, Fashion, Lifestyle, Online Portals, Wellness", Falguni Nayar, 1001-5000,15
+71,NoBroker, Bengaluru,2014,10,214452563," Commercial Real Estate, Mobile Apps, Property Management, Real Estate, Software"," Akhil Gupta, Amit Agarwal", 51-100,13
+72,PharmEasy, Mumbai,2015,9,671538857," Health Care, Health Diagnostics, Pharmaceutical, Wellness"," Dharmil Sheth, Dhaval Shah, Mikhil Innani", 501-1000,26
+73,OfBusiness, Gurgaon,2015,7,193125171," Financial Services, FinTech, Lending"," Asish Mohapatra, Bhuvan Gupta, Chandranshu Sinha, Nitin Jain, Ruchi Kalra, Srinath Ramakkrushnan, Vasant Sridhar", 501-1000,13
+74,LEAD School, Mumbai,2012,4,65966878," E-Learning, EdTech, Education, Secondary Education"," Smita Deorah, Sumeet Mehta", 501-1000,3
+75,Upstox, Mumbai,2010,2,29000000," Financial Services, FinTech, Trading Platform"," Raghu Kumar, Shrinivas Viswanath", 101-250,3
+76,Teachmint, Bengaluru,2020,3,20000000," E-Learning, EdTech, Education"," Anshuman Kumar, Divyansh Bordia, Mihir Gupta, Payoj Jain", 51-100,5
+77,ZestMoney, Bengaluru,2015,9,68373925," Big Data, Consumer Lending, Financial Services, FinTech"," Ashish Anantharaman, Lizzie Chapman, Priya Sharma", 101-250,15
+78,Convosight, Delhi,2019,2,13000000," SaaS, Social Media, Social Media Management"," Kartik Bansal, Tamanna Dhamija, Tarun Dhamija", 51-100,5
+79,Livspace, Bengaluru,2014,8,101691508," E-Commerce, Furniture, Interior Design"," Anuj Srivastava, Ramakant Sharma, Shagufta Anurag", 1001-5000,17
+80,Rebel Foods, Pune,2011,20,342349901," E-Commerce, Food Delivery, Food Processing"," Jaydeep Barman, Kallol Banerjee", 5001-10000,19
+81,Spinny, Gurgaon,2015,5,126900000," E-Commerce, E-Commerce Platforms, Internet, Retail"," Mohit Gupta, Niraj Singh, Ramanshu Mahaur", 251-500,13
+82,Synapsica, New Delhi,2018,4,4200835," Artificial Intelligence, Health Care, Health Diagnostics, Information Technology, Machine Learning, Medical, Natural Language Processing, Predictive Analytics, Software"," Cherian Dr, Gandharv Goyal, Kuldeep Singh Chauhan, Meenakshi Singh", 11-50,5
+83,DeHaat, Patna City,2012,5,49286284," Agriculture, AgTech, E-Commerce, Farming, Internet, Marketplace"," Amrendra Singh, Shashank Kumar", 251-500,8
+84,Masai School, Bengaluru,2019,3,7483079," E-Learning, Education, Training", Prateek Shukla, 1-10,4
+85,Wysa, Bengaluru,2015,4,9357626," Artificial Intelligence, Fitness, Health Care, Medical Device, mHealth"," Jo Aggarwal, Ramakant Vempati", 11-50,9
+86,Magicpin, Gurgaon,2015,7,41884162," E-Commerce, E-Commerce Platforms, Internet, Retail"," Anshoo Sharma, Brij Bhushan", 501-1000,12
+87,Ather Energy, Bengaluru,2013,5,102210000," Automotive, Electric Vehicle, Manufacturing"," Arun Vinayak, Swapnil Jain, Tarun Mehta", 501-1000,5
+88,Trell, Bengaluru,2016,7,16950000," Lifestyle, Social Network, Social Shopping, Video"," Arun Lodhi, Bimal Kartheek Rebba, Prashant Sachan, Pulkit Agrawal", 101-250,31
+89,Convin, Bengaluru,2019,1,25000000," Analytics, Artificial Intelligence, Sales, Software"," Ashish Santhalia, Atul Shree, Bharat Patidar, Durgesh Choudhary", 11-50,7
+90,Yellow Messenger, Bengaluru,2016,3,24000000," Artificial Intelligence, Customer Service, Enterprise Software, Messaging, Software"," Anik Das, Jaya Kishore Reddy Gollareddy, Raghu Kumar, Rashid Khan", 251-500,3
+91,Mamaearth, Gurgaon,2016,5,23313960," E-Commerce, Health Care, Retail, Wellness", Varun Alagh, 11-50,8
+92,Milkbasket, Haryana,2014,11,38519469," Delivery Service, E-Commerce, Food and Beverage, Internet"," Anant Goel, Anurag Jain, Ashish Goel, Yatish Talavdia", 11-50,18
+93,Bimaplan, Bengaluru,2020,2,3000000," Financial Services, Insurance"," Ashish Goel, Rajiv Srivatsa", 1-10,27
+94,Urban Ladder, Bengaluru,2012,9,114896667," E-Commerce, E-Commerce Platforms, Furniture, Home Decor, Internet",Bimaplan, 501-1000,10
+95,PagarBook, Bengaluru,2019,2,17000000," Apps, Enterprise Software, Human Resources, Mobile Apps, SaaS, Software"," Adarsh Kumar, Arya Gautam, Rupesh Mishra", 101-250,4
+96,Paytm Payments Bank, New Delhi,2017,2,28188461," Banking, FinTech, Mobile Payments", Vijay Shekhar Sharma, 1001-5000,2
+97,OkCredit, Faridabad,2017,3,84200000," Finance, Financial Exchanges, Financial Services, FinTech, Personal Finance"," Aditya Prasad, Gaurav Kumar, Harsh Pokharna", 101-250,6
+98,Purplle, Mumbai,2011,10,93649358," Beauty, Cosmetics, E-Commerce, Mobile Apps, Retail, Shopping"," Manish Taneja, Rahul Dash", 101-250,15
+99,MyMoneyMantra, New Delhi,1989,1,15000000," Consumer Lending, Finance, Financial Services, FinTech, Insurance, Lending, Marketplace, Personal Finance", Raj Khosla, 1001-5000,2
+100,Blackbuck, Bengaluru,2015,8,296995198," Information Services, Internet, Logistics, Supply Chain Management, Transportation"," Chanakya Hridaya, Rajesh Yabaji, Ramasubramaniam B", 1001-5000,13
+101,Wakefit, Bengaluru,2016,2,2500000000," E-Commerce, Furniture, Manufacturing, Retail"," Ankit Garg, Chaitanya Ramalingegowda", 251-500,3
+102,Freshtohome, Bengaluru,2015,9,152000000," E-Commerce, E-Commerce Platforms, Food and Beverage, Food Delivery, Online Portals", Shan Kadavil, 51-100,23
+103,Housing.com, Gurgaon,2012,8,147830000," Internet, Online Portals, Real Estate"," Abhimanyu Dhamija, Abhishek Anand, Advitiya Sharma, Amrit Raj, Neeraj Bhunwal, Rahul Yadav, Ravish Naresh, Rishabh Agrawal, Sanat Ghosh, Saurabh Goyal, Snehil Buxy, Vaibhav Tolia", 1001-5000,16
+104,Doubtnut, Gurgaon,2016,5,49939813," E-Learning, EdTech, Education, Image Recognition, STEM Education"," Aditya Shankar, Tanushree Nagori", 11-50,10
+105,smallcase, Bengaluru,2015,3,22000000, Financial Services," Anugrah Shrivastava, Rohan Gupta, Vasanth Kamath", 101-250,11
+106,Instamojo, Bengaluru,2012,7,8444527," Business Development, E-Commerce, Financial Services, Payments"," Aditya Sengupta, Akash Gehani, Harshad Sharma, Sampad Swain", 101-250,14
+107,Zomato, Gurgaon,2008,21,2100568357," Food Delivery, Mobile Apps, Reservations, Restaurants"," Deepinder Goyal, Gaurav Gupta, Pankaj Chaddah", 10001+,25
+108,SUGAR Cosmetics, Mumbai,2012,3,35500000," Beauty, Brand Marketing, Cosmetics, Internet, Online Portals, Retail"," Kaushik Mukherjee, Vineeta Singh", 1001-5000,6
+109,WinZO, New Delhi,2018,5,45500000," Digital Entertainment, eSports, Gaming, Media and Entertainment, Online Games"," Chanchal Kurele, Paavan Nanda, Saumya Singh Rathore", 51-100,12
+110,Chingari, Bengaluru,2018,5,14340302," Social, Video"," Anand Dalmia, Ramganesh Iyer, Subramanya S.V.", 1-10,18
+111,Fisdom, Bengaluru,2015,6,23450864," Advice, Apps, Finance, Financial Services, FinTech",Chingari, 101-250,7
+112,Digit Insurance, Bengaluru,2016,5,244460150," Finance, Financial Services, Insurance, InsurTech"," Kamesh Goyal, Philip Varghese, Sriram Shankar, Vijay Kumar", 1001-5000,4
+113,Aye Finance, Gurgaon,2014,23,261193454," Finance, Financial Services, FinTech, Small and Medium Businesses"," Sanjay Sharma, Vikram Jetley", 501-1000,23
+114,Rivigo, Gurgaon,2014,11,268701257," Automotive, Freight Service, Logistics, Shipping, Software, Transportation"," Deepak Garg, Gazal Kalra", 1001-5000,6
+115,Pepper Content, Mumbai,2017,2,4506066," Content, Content Marketing, Media and Entertainment"," Anirudh Singla, Rishabh Shekhar", 11-50,19
+116,Get My Parking, New Delhi,2015,5,10392793," Automotive, Internet, Parking, Software"," Chirag Jain, Rasik Pansare", 51-100,8
+117,FabAlley, Noida,2012,8,18658274," E-Commerce, Fashion, Lifestyle, Women's"," Shivani Poddar, Tanvi Malik", 101-250,18
+118,FarMart, Gurgaon,2015,4,3280204," Agriculture, Apps, Farming, Mobile, SaaS"," Alekh Sanghera, Lokesh Singh, Mehtab Singh Hans", 11-50,6
+119,mfine, Bengaluru,2017,6,48785217," Apps, Artificial Intelligence, Health Care, Hospital, Medical"," Ajit Narayanan, Arjun Choudhary, Ashutosh Lawania, Prasad Kompalli", 251-500,11
+120,Medlife, Bengaluru,2014,4,56506662," Information Technology, Retail"," Ananth Narayanan, Prashanth Singh, Tushar Kumar", 1001-5000,3
+121,Lendingkart, Ahmedabad,2014,12,257504119," Finance, Financial Services, FinTech, Lending, Micro Lending"," Harshvardhan Lunia, Mukul Sachan", 501-1000,15
+122,Chqbook, Delhi,2017,3,6000000," Finance, Financial Services, FinTech"," Mohit Goel, Rajat Kumar, Sachin Arora, Vipul Sharma", 101-250,8
+123,Turtlemint, Mumbai,2015,5,77000000," Financial Services, Health Insurance, Insurance, InsurTech"," Anand Prabhudesai, Dhirendra Mahyavanshi, Kunal Shah", 251-500,10
+124,Ecom Express, New Delhi,2012,6,485392829," Delivery, E-Commerce, Logistics"," K. Satyanarayana, Manju Dhawan, Sanjeev Saxena, T. A. Krishnan", 10001+,4
+125,BharatPe, New Delhi,2018,7,290345855," Apps, Financial Services, FinTech, Payments, QR Codes"," Ashneer Grover, Bhavik Koladiya, Shashvat Nakrani", 251-500,17
+126,Vymo, Bengaluru,2013,5,23000000," Analytics, Apps, CRM, Mobile, Productivity Tools, SaaS, Sales Automation"," Venkat Malladi, Yamini Bhat", 51-100,5
+127,Shiprocket, New Delhi,2017,6,53350000," E-Commerce, Logistics, Shipping, Supply Chain Management"," Gautam Kapoor, Saahil Goel, Vishesh Khurana", 251-500,12
+128,LeadSquared, Bengaluru,2011,2,35000000," CRM, SaaS, Software", Nilesh Patel, 101-250,3
+129,FamPay, Bengaluru,2019,3,42850000," Financial Services, Lifestyle, Payments"," Kush Taneja, Sambhav Jain", 51-100,17
+130,Quikr, Bengaluru,2008,12,424214622," Classifieds, E-Commerce, Internet, Marketplace, Rental Property"," Jiby Thomas, Pranay Chulet", 1001-5000,15
+131,Quizizz, Bengaluru,2015,3,15504114," E-Learning, Education, Gamification, Skill Assessment, Software, Training"," Ankit Gupta, Deepak Joy Cheenath", 11-50,6
+132,Stanza Living, New Delhi,2017,6,172175325," Home Services, Hospitality, Information Technology, Real Estate, Rental Property"," Anindya Dutta, Sandeep Dalmia", 251-500,12
+133,Pristyn Care, Gurgaon,2018,4,81000000," Health Care, Hospital, Internet", Harsimarbir (Harsh) Singh, 501-1000,5
+134,Polygon (Previously Matic Network, Mumbai,2017,3,450000, Blockchain," Ankit Prasad, Mohd Wassem, Rahul Prasad", 11-50,4
+135,Bobble AI, Haryana,2015,5,13275213," Artificial Intelligence, Machine Learning, Messaging, Natural Language Processing, Text Analytics"," Nakul Kukar, Paras Kaushal", 51-100,3
+136,Cell Propulsion, Bengaluru,2016,6,4074000," Automotive, Electric Vehicle"," Kaustub Pandey, Subhash Choudhary, Suumit Shah", 11-50,6
+137,DukaanÂ®, Bengaluru,2019,1,6000000, DIY,polygon, 11-50,9
+138,Play Shifu, Bengaluru,2016,5,28438340," Augmented Reality, Education, Media and Entertainment, STEM Education, Toys"," Dinesh Advani, Vivek Goyal", 51-100,10
+139,Lava International Limited, Noida,2009,1,90000000," Consumer Electronics, Mobile, Telecommunications"," Shailendra Nath Rai, Sunil Bhalla, Vishal Sehgal", 501-1000,1
+140,Vivriti Capital, Chennai,2017,4,107701572," Analytics, Banking, Crowdfunding, Financial Services, FinTech, Insurance, Marketplace"," Aniket Deshpande, Gaurav Kumar, Irfan Mohammed, Soumendra Ghosh, Vineet Sukumar", 101-250,2
+141,DocsApp, Bengaluru,2015,5,27575748," Health Care, Medical, Mobile Apps, Wellness"," Enbasekar Dinadayalane, Satish Kannan", 1001-5000,11
+142,Furlenco, Bengaluru,2012,16,68955715," Consumer, Furniture, Home Decor, Home Improvement, Rental, Subscription Service", Ajith Karimpana, 251-500,21
+143,Swiggy, Bengaluru,2014,14,2428380000," Delivery Service, E-Commerce Platforms, Restaurants"," Nandan Reddy, Rahul Jaimini, Sriharsha Majety", 10001+,23
+144,Bombay Shaving Company, New Delhi,2015,6,17696569," Consumer Goods, E-Commerce, Lifestyle, Men's"," Deepu Panicker, Raunak Munot, Rohit Jaiswal, Shantanu Deshpande", 1-10,16
+145,Treebo Hotels, Bengaluru,2015,9,69174397," Hospitality, Hotel, Internet"," Kadam Jeet Jain, Rahul Chaudhary, Sidharth Gupta", 501-1000,16
+146,Betterhalf, Bengaluru,2016,3,4600000," Artificial Intelligence, Consumer Applications, Dating"," Pawan Gupta, Rahul Namdev", 11-50,10
+147,JioSaavn, Mumbai,2007,7,131591747," Internet, Mobile, Music, Music Streaming, Video Streaming"," Anjali Naik, Anurag Gupta, Paramdeep Singh, Rishi Malhotra, Vinodh Bhat", 101-250,13
+148,nearbuy, New Delhi,2011,3,37237275," Apps, E-Commerce, Internet, Restaurants, Travel", Ankur Warikoo, 501-1000,2
+149,Indifi Technologies, Gurgaon,2015,5,35826551," Credit, Financial Services, FinTech, Lending"," Alok Mittal, Siddharth Mahanot, Sundeep Sahi", 101-250,15
+150,Portea Medical, Bengaluru,2013,6,76066894," Health Care, Home Health Care, Hospital, Medical"," Ganesh Krishnan, Karan Aneja, Manjusha Anumolu, Meena Ganesh, Zachary Jones", 1001-5000,10
+151,Stashfin, New Delhi,2016,3,75000000," Apps, Banking, Finance, Financial Services, FinTech", Tushar Aggarwal, 51-100,14
+152,Square Yards, Gurgaon,2014,6,73000000," Market Research, Real Estate"," Kanika Gupta, Tanuj Shori", 5001-10000,11
+153,HealthifyMe, Bengaluru,2012,7,25000000," Apps, Fitness, Health Care, mHealth"," Mathew Cherian, Sachin Shenoy, Tushar Vashisht", 101-250,17
+154,QuickSell, Mumbai,2017,2,2225000, Software, Deepak Bhagchandani, 11-50,6
+155,Perpule, Bengaluru,2016,3,6361203," Apps, Billing, Enterprise Software, Mobile Payments, Point of Sale, Retail Technology, SaaS, Shopping, Software"," Abhinav Pathak, Saketh BSV, Yogesh Ghaturle", 101-250,5
+156,ReNew Power, Gurgaon,2011,12,2776179257," Clean Energy, Energy, Renewable Energy, Solar, Wind Energy", Sumant Sinha, 101-250,9
+157,Hike, New Delhi,2012,5,261000000," Apps, Messaging, Mobile, Online Portals, Social Network", Kavin Bharti Mittal, 251-500,10
+158,Mswipe Technologies, Mumbai,2011,9,97467607," Financial Services, Payments", Manish Patel, 5001-10000,14
+159,Virohan, Gurgaon,2018,6,3450000," Continuing Education, Corporate Training, EdTech, Health Care, Higher Education, Vocational Education"," Archit Jayasal, Kunaal Dudeja, Nalin Saluja, Paarul Dudeja", 101-250,9
+160,BimaPe, Mumbai,2020,2,545000," Consumer Applications, FinTech, InsurTech", Rahul Mathur, 1-10,5
+161,Netmeds, Chennai,2010,3,99000000," E-Commerce, Health Care, Pharmaceutical", Pradeep Dadha, 501-1000,4
+162,XYXX Apparels, Surat,2017,3,4923799," Gaming, Sports", Yogesh Kabra, 51-100,3
+163,One97, Noida,2000,13,4432652051," Finance, FinTech, Internet, Mobile Advertising, Mobile Payments, Software", Vijay Shekhar Sharma, 1001-5000,15
+164,Airmeet, Bengaluru,2019,4,15000000," Events, Social, Software, Video Conferencing"," Lalit Mangal, Manoj Singh, Vinay Kumar Jasti", 51-100,20
+165,BookMyShow, Mumbai,1999,6,224500000," Digital Entertainment, E-Commerce, Event Management, Events, Internet, Media and Entertainment, Online Auctions, Social Media, Sports"," Ashish Hemrajani, Parikshit Dar, Rajesh Balpande", 501-1000,6
+166,Embibe, Mumbai,2012,4,196656376," Content Creators, Digital Marketing, EdTech, Education, Tutoring", Aditi Avasthi, 101-250,4
+167,Awign Enterprises, Bengaluru,2016,5,5463025," Business Development, E-Commerce, EdTech, Hospitality, Information Technology, Last Mile Transportation, Marketing, Outsourcing"," Annanya Sarthak, Gurpreet Singh, Praveen Sah", 251-500,11
+168,ixigo, Gurgaon,2006,5,35500000," Mobile, Mobile Apps, Tourism, Travel"," Aloke Bajpai, Dharmendra Yashovardhan, Rajnish Kumar", 101-250,6
+169,Shuttl, Gurgaon,2015,13,122313023," Apps, Mobile, Software, Transportation"," Amit Singh, Deepanshu Malviya", 251-500,22
+170,Chai Point, Bengaluru,2010,9,46221395," Food and Beverage, Food Processing, Restaurants, Snack Food, Tea"," Amuleek Singh Bijral, Gaganjot Kaur", 1001-5000,6
+171,Avail Finance, Bengaluru,2017,5,41443027," Finance, FinTech, Mobile Payments"," Ankush Aggarwal, Tushar Mehndiratta", 51-100,8
+172,Flock, Mumbai,2014,3,45000000," Apps, Collaboration, Developer Platform, Enterprise Software, Messaging, Productivity Tools, Video Chat", Bhavin Turakhia, 101-250,2
+173,GlowRoad, Bengaluru,2017,4,31300000," E-Commerce, Retail, Social Shopping"," Kunal Sinha, Nilesh Padariya, Nitesh Pant, Shekhar Sahu, Sonal Verma", 51-100,7
+174,HomeLane, Bengaluru,2014,9,63359735," Home Decor, Home Improvement, Interior Design, Internet"," Rama Harinath, Srikanth Iyer, Tanuj Choudhry, Vivek Parasuram", 501-1000,12
+175,Wow! Momo, Kolkata,2008,5,37996690," Food and Beverage, Food Delivery, Food Processing"," Binod Kumar Homagai, Sagar Daryani, Shah Miftaur Rahman", 251-500,6
+176,LetsTransport, Bengaluru,2015,8,24628092," Logistics, Transportation, Travel"," Ankit Parasher, Pushkar Singh, Sudarshan Ravi", 11-50,12
+177,Digital Class E-Learning Marketplace, Ahmedabad,2017,1,3500000," B2B, B2C, E-Learning, EdTech, Marketplace"," Hitesh Mohkar, Tushar Dhakate", 11-50,19
+178,RentoMojo, Bengaluru,2014,14,51443326," E-Commerce, Furniture, Internet, Rental"," Achal Mittal, Ajay Nain, Geetansh Bamania", 501-1000,5
+179,SBI Life, Mumbai,2001,1,742000000," Financial Services, Health Care, Insurance"," Kapil Karekar, Richa Kar", 10001+,2
+180,Zivame.com, Bengaluru,2011,8,69002120," E-Commerce, Fashion, Internet, Lingerie",Sbi life, 251-500,11
+181,VerSe Innovation, Bengaluru,2007,20,434009213," Content, Internet, Social Media"," Umang Bedi, Virendra Gupta", 501-1000,22
+182,CoinDCX, Mumbai,2017,3,5500000," Blockchain, Cryptocurrency, Financial Services, FinTech, Trading Platform"," Neeraj Khandelwal, Sumit Gupta", 11-50,10
+183,Country Delight, Sohna,2015,9,44247827," Agriculture, Delivery Service, Food and Beverage, Food Delivery"," Chakradhar Gade, Nitin Kaushal", 501-1000,6
+184,BankBazaar.com, Chennai,2008,6,115000000," E-Commerce, Finance, FinTech, Insurance, Marketplace"," Adhil Shetty, Arjun Shetty, Rati Shetty", 1001-5000,16
+185,Happay, Whitefield,2012,7,21556985," Financial Services, FinTech, SaaS, Software"," Anshul Rai, Varun Rathi", 251-500,8
+186,Five Star Business Finance, Kilpauk,1984,7,456059601," Banking, Finance, Financial Services, Personal Finance", V K Ranganathan, 1001-5000,8
+187,Goodera, Bengaluru,2014,3,17612830," Computer, Events, Software, Sustainability"," Abhishek Humbad, Richa Bajpai", 101-250,6
+188,Simpl, Bengaluru,2015,3,26700000," E-Commerce, Financial Services, Lending, Payments"," Chaitra Chidanand, Nityanand Sharma", 101-250,5
+189,F5 Refreshement, New Delhi,2018,2,621291, Food and Beverage," Lalit Aggarwal, Raghav Arora", 51-100,6
+190,ShopClues, Gurgaon,2011,11,257002291," E-Commerce, Internet, Marketplace, Shopping"," Radhika Aggarwal, Sandeep Aggarwal, Sanjay Sethi", 1001-5000,12
+191,Aknamed, Bengaluru,2018,1,7000000," Health Care, Hospital, Supply Chain Management"," Saurabh Pandey, Varun Vohra", 51-100,1
+192,Droom, Haryana,2014,7,133000000," Automotive, B2B, E-Commerce, E-Commerce Platforms, Internet, Marketplace, News", Sandeep Aggarwal, 251-500,10
+193,Box8, Mumbai,2012,9,32668662," Delivery, E-Commerce, Food and Beverage, Food Delivery"," Amit Raj, Anshul Gupta", 1001-5000,10
+194,Cashkaro, Gurgaon,2013,4,14550000," Coupons, Customer Service, E-Commerce, Internet, Retail"," Rohan Bhargava, Swati Bhargava", 51-100,3
+195,CropIn, Bengaluru,2010,10,32599576," Analytics, Artificial Intelligence, Farming, Forestry, Information and Communications Technology (ICT), Machine Learning, Predictive Analytics, SaaS, Satellite Communication, Software", Krishna Kumar, 101-250,12
+196,Jupiter, Mumbai,2019,2,26000000," Banking, Consulting, Financial Services, Wealth Management", Jitendra Gupta, 11-50,7
+197,ShopX, Bengaluru,2015,4,56417592," B2B, E-Commerce, Internet"," Amit Sharma, Apoorva Jois", 101-250,5
+198,LocoNav, Azadpur,2015,3,7420000," Computer, Software, Software Engineering"," Shridhar Gupta, Vidit Jain", 101-250,3
+199,Avataar.Me, Bengaluru,2016,1,7000000," 3D Technology, Augmented Reality, E-Commerce, Fashion, Mobile Apps, Software, Virtual Reality"," Gaurav Baid, Mayank Tiwari, Prashanth Aluru, Sravanth Aluru", 51-100,1
+200,BluSmart Mobility, Ahmedabad,2019,5,17062939," Electric Vehicle, Mobile Apps, Ride Sharing"," Anmol Jaggi, Punit Goyal", 51-100,20
+201,SleepyCat, Mumbai,2017,1,110000000, E-Commerce, Kabir Siddiq, 1-10,3
+202,INDwealth, Gurgaon,2018,3,56891230," Artificial Intelligence, Financial Services, FinTech, Machine Learning, Personal Finance, Wealth Management"," Abhay Girnara, Amit Jain, Amrita Sirohia, Ashish Kashyap, Monika Dua, Pratiksha Dake", 101-250,4
+203,Shipsy, Gurgaon,2015,4,7697983," Big Data, Internet of Things, Logistics, Machine Learning, Software, Supply Chain Management"," Dhruv Agrawal, Himanshu Gupta, Soham Chokshi", 101-250,8
+204,Kissht, Mumbai,2015,6,49247312," Credit, Finance, Financial Services, FinTech, Lending, Sales Automation"," Karan Mehta, Krishnan Vishwanathan", 251-500,8
+205,MedGenome, Bengaluru,2013,6,119000000," Biotechnology, Genetics, Health Care, Health Diagnostics, Medical"," Mahesh Pratapneni, Sam Santhosh", 251-500,12
+206,Fabhotels, Gurgaon,2015,7,48598636," E-Commerce, Hospitality, Hotel, Travel Accommodations"," Adarsh Manpuria, Vaibhav Aggarwal", 51-100,9
+207,Loadshare, Bengaluru,2017,7,21262496," Delivery Service, Industrial Automation, Logistics, Software, Supply Chain Management"," Pramod Nair, Raghuram Talluri, Rakib Ahmed, Tanmoy Karmakar", 11-50,9
+208,Gradeup, Noida,2015,5,10020000," Education, Mobile, Online Portals"," Sanjeev Kumar, Shobhit Bhatnagar, Vibhu Bhushan", 501-1000,2
+209,FreeCharge, Mumbai,2010,7,177639874," Coupons, E-Commerce, Internet, Payments"," Kunal Shah, Sandeep Tandon", 251-500,7
+210,Healthkart, Gurgaon,2011,4,61000000," Dietary Supplements, E-Commerce, Fitness, Health Care, Retail, Wellness", Sameer Maheshwari, 251-500,8
+211,Saveo, Bengaluru,2019,2,310000000," Fitness, Health Care, Wellness"," Cheolwon Lee, Jay Yi, Martin Lee", 101-250,24
+212,True Balance, Gurgaon,2014,7,99640920," Apps, Financial Services, FinTech, Insurance, Mobile Payments, Personal Finance",Saveo, 51-100,17
+213,Coverfox Insurance, Mumbai,2013,6,51250370," Auto Insurance, Health Insurance, Insurance, InsurTech, Life Insurance, Travel"," Devendra Rane, Varun Dua", 501-1000,13
+214,EarlySalary, Pune,2015,7,33267529," Financial Services, FinTech, Personal Finance", Akshay Mehrotra, 101-250,6
+215,Pitstop, Bengaluru,2015,5,9702517," Automotive, Service Industry"," Mihir Mohan Mishra, Nirant Ramakuru, Ruchi Deepak", 101-250,12
+216,Wheels Eye, Gurgaon,2017,1,70000000," Information Services, Information Technology"," Anshul Mimani, Manish Somani", 1001-5000,1
+217,Bira 91, New Delhi,2015,14,160465015," Brewing, Craft Beer, Food and Beverage, Wine And Spirits", Ankur Jain, 251-500,13
+218,PlanetSpark, Gurgaon,2016,2,48000000," E-Learning, EdTech, Education"," Kunal Malik, Maneesh Dhooper", 1-10,4
+219,LimeRoad, Gurgaon,2012,5,51944731," E-Commerce, Fashion, Internet, Shopping"," Ankush Mehra, Manish Saksena, Prashant Malik, Suchi Mukherjee", 251-500,6
+220,Pratilipi, Bengaluru,2015,5,29833055," Audio, Comics, Digital Media, EBooks, Podcast, Publishing, Reading Apps"," Prashant Gupta, Rahul Ranjan, Ranjeet Pratap Singh, Sahradayi Modi, Sankaranarayanan Devarajan", 51-100,12
+221,Freight Tiger, Mumbai,2014,1,550000000," Automotive, Logistics, Transportation", Swapnil Shah, 11-50,3
+222,unlu, Gurgaon,2020,2,1284058," Celebrity, Internet, Media and Entertainment, Social Media"," Akshay Pruthi, Anurag Dalia, Himanshu Periwal, Vipul Agrawal", 11-50,4
+223,KIMS Hospitals, Hyderabad,2000,3,139178803," Health Care, Hospital, Medical", Bhaskar Rao, 11-50,3
+224,InterviewBit, Bengaluru,2015,2,21500000," E-Learning, Employment, Information Technology, Internet, Recruiting, Software"," Abhimanyu Saxena, Anshuman Singh", 101-250,4
+225,Oye Rickshaw, Gurgaon,2017,3,13275120," Electric Vehicle, Last Mile Transportation, Public Transportation, Transportation"," Akash Deep, Mohit Sharma", 251-500,10
+226,Arzooo.com, Bengaluru,2018,6,14800000," Consumer Electronics, Electronics, Retail, Retail Technology, Shopping"," Khushnud Khan, Rishi Raj Rathore", 251-500,11
+227,Amber Group, Gurgaon,1990,1,1787100000," Consumer Electronics, Electronics, Home Services, Industrial Manufacturing, Machinery Manufacturing, Manufacturing", Kartar Singh, 51-100,9
+228,Star Health and Allied Insurance, Nungambakkam,2006,3,173773498," Health Care, Health Insurance, Insurance", Times Internet, 1001-5000,6
+229,Magicbricks, Noida,2006,1,300000000," Commercial Real Estate, Online Portals, Real Estate",Star Health and Allied, 1001-5000,1
+230,Unbxd, Bengaluru,2011,7,14500000," Artificial Intelligence, Big Data, E-Commerce, Machine Learning, Navigation, Product Search, Search Engine, Software"," Pavan Sondur, Prashant Kumar", 101-250,13
+231,LIDO, Mumbai,2019,2,10500000," E-Learning, EdTech, Education, Software", Sahil Sheth, 501-1000,8
+232,Yulu, Bengaluru,2017,4,19900000," Electric Vehicle, Ride Sharing, Sharing Economy, Transportation"," Amit Gupta, Hemant Gupta, Naveen Dachuri, RK Misra", 101-250,7
+233,Cashify, Gurgaon,2015,5,28000000," Consumer, Consumer Electronics, E-Commerce, Marketplace"," Amit Sethi, Mandeep Manocha, Nakul Kumar", 501-1000,9
+234,Revv, Gurgaon,2015,3,23300000," Apps, Automotive, Rental"," Anupam Agarwal, Karan Jain", 101-250,10
+235,UrbanPiper, Bengaluru,2015,3,10180783," Food and Beverage, Information Services, Information Technology, Software"," Anirban Majumdar, Devarshi Shah, Saurabh Gupta", 101-250,4
+236,PropTiger, Gurgaon,2011,2,85000000," Intellectual Property, Marketing, Real Estate"," Dhruv Agarwala, Kartik Varma, Prashan Agarwal", 501-1000,3
+237,Miko, Mumbai,2015,5,21540065," Artificial Intelligence, Consumer Electronics, EdTech, Hardware, Internet of Things, Machine Learning, Robotics"," Chintan Raikar, Prashant Iyengar, Sneh Vaswani", 101-250,9
+238,HungerBox, Bengaluru,2015,8,44580231," B2B, Food and Beverage, Food Delivery"," Sandipan Mitra, Uttam Kumar", 251-500,10
+239,OYO, Gurgaon,2012,17,3439351106," Hospitality, Hotel, Leisure, Reservations, Travel", Ritesh Agarwal, 10001+,23
+240,Leap Finance, Bengaluru,2019,2,22500000," Credit Cards, Education, Financial Services, FinTech, Lending"," Arnav Kumar, Vaibhav Singh", 1-10,5
+241,MedPlus, Hyderabad,2006,7,317695079," E-Commerce, Health Care, Pharmaceutical, Wellness", Madhukar Gangadi, 10001+,6
+242,PiggyRide, Bengaluru,2019,2,110000000," Children, Education, Information Services, Information Technology, Transportation"," Manish Tewari, Rohan Kaushal", 11-50,8
+243,Vernacular.ai, Bengaluru,2016,4,5100000," Artificial Intelligence, Call Center, Customer Service, Internet, Internet of Things, Machine Learning, Natural Language Processing, SaaS, Software, Speech Recognition"," Akshay Deshraj, Manoj Sarda, Sourabh Gupta", 51-100,7
+244,ShareChat, Bengaluru,2015,10,824830000," Internet, Mobile Apps, Social Media, Social Network"," Ankush Sachdeva, Bhanu Pratap Singh, Farid Ahsan", 501-1000,17
+245,PhableCare, Bengaluru,2017,5,13670000," Health Care, Internet, Mobile Apps, Personal Health"," Mukesh Bansal, Prasanth Reddy, Sumit Sinha", 51-100,13
+246,OZiva, Mumbai,2016,2,17000000," Dietary Supplements, Fitness, Health Care, Nutrition, Wellness"," Aarti Gill, Mihir Gadani", 51-100,4
+247,Testbook.com, Mumbai,2013,5,12550000," E-Learning, EdTech, Education"," Abhishek Sagar, Ashutosh Kumar, Manoj Munna, Narendra Agrawal, Yadvendar Champawat", 101-250,10
+248,Billdesk, Ahmedabad,2000,4,241361584," Finance, FinTech, Payments, Property Development, Rental", Ajay Kaushal, 251-500,7
+249,Flatheads, Bengaluru,2019,2,725000," E-Commerce, Fashion, Retail, Shoes, Shopping"," Ganesh Balakrishnan, Utkarsh Biradar", 11-50,7
+250,Signzy, Bengaluru,2015,6,12600000," Artificial Intelligence, Finance, Financial Services, FinTech, Risk Management, Software"," Ankit Ratan, Ankur Pandey, Arpit Ratan", 101-250,12
+251,RAW Pressery, Mumbai,2014,12,41255467," Delivery, Food and Beverage, Food Processing, Organic Food", Anuj Rakyan, 101-250,7
+252,WorkIndia, Mumbai,2015,3,6390562," Human Resources, Recruiting, Staffing Agency"," Ajay Kumar, Jatin Jakharia, Kshitij Nagvekar, Kunal Patil, Lokesh Tiwari, Moiz Arsiwala, Nilesh Dungarwal, Soumil Rao", 51-100,4
+253,WebEngage, Mumbai,2011,7,6100000," Enterprise Software, Marketing Automation, Personalization, SaaS"," Ankit Utreja, Avlesh Singh", 101-250,8
+254,Chumbak, Bengaluru,2009,6,26963740," E-Commerce, Lifestyle, Shopping", Subhra Chadda, 11-50,5
+255,Mu Sigma, Bengaluru,2004,7,211350000," Analytics, Business Information Systems, Information Services, Information Technology, Software", DHIRAJ C RAJARAM, 1001-5000,4
+256,Myelin Foundry, Bengaluru,2019,4,2001796," Artificial Intelligence, Health Care, Industrial, Information Services, Information Technology, Machine Learning, Media and Entertainment"," Aditi Olemann, Ganesh Suryanarayanan, Gopichand Katragadda", 11-50,5
+257,JUSPAY, Kormangala,2012,2,27420684," FinTech, Internet, Mobile Payments, Payments"," Ramanathan RV, Vimal Kumar", 51-100,6
+258,DaMENSCH, Bengaluru,2018,3,637500000," E-Commerce, Men's, Textiles", Shailendra Agarwal, 11-50,5
+259,InstantPay, New Delhi,2013,1,340000000," E-Commerce, Electronics, Financial Exchanges, Financial Services, Mobile Payments, Payments, Transaction Processing",Damensch, 51-100,2
+260,ITILITE, Bengaluru,2017,3,17271725," Business Travel, Information Technology, Internet"," Anish Khadiya, Mayank Kukreja", 101-250,4
+261,Fyle, Bengaluru,2016,5,10361312," Accounting, Artificial Intelligence, Business Information Systems, Business Travel, Finance, FinTech, SaaS"," Sivaramakrishnan Narayanan, Yashwanth Madhusudan", 11-50,10
+262,Trulymadly.com, New Delhi,2013,4,8923539," Apps, Dating, Internet"," Hitesh Dhingra, Rahul Kumar, Sachin Bhatia", 11-50,23
+263,Quess Corp, Bengaluru,2007,1,26500000," Information Technology, Recruiting", Ajit Isaac, 10001+,4
+264,FreshMenu, Bengaluru,2014,7,25837687," Delivery, Food and Beverage, Food Delivery, Food Processing", Rashmi Daga, 501-1000,8
+265,NODWIN Gaming, Gurgaon,2012,1,1640000000," Events, Gaming, Internet, Social Media, Sports", Gautam Virk, 11-50,1
+266,IDfy, Mumbai,2011,5,5168764," E-Commerce, FinTech, Fraud Detection, Information Services, Information Technology, Insurance, Internet, Machine Learning"," Ashok Hariharan, Hatim Baheranwala, Vineet Jawa", 101-250,8
+267,Kinara Capital, Bengaluru,2011,8,70196840," Finance, Financial Services, FinTech, Lending, Micro Lending, Social Entrepreneurship", Hardika Shah, 251-500,10
+268,Niki, Bengaluru,2015,10,6287653," Android, Natural Language Processing"," Keshav Prawasi, Nitin Babel, Sachin Jaiswal, Shishir Modi", 51-100,14
+269,MyGate, Bengaluru,2016,3,67262961," Apps, Information Services, Information Technology, Mobile Apps"," Abhishek Kumar, Shreyans Daga, Vijay Arisetty", 501-1000,4
+270,Neogrowth, Mumbai,2010,7,107798787," Business Development, Finance, Financial Services, Market Research"," Dhruv Khaitan, Piyush Khaitan", 101-250,9
+271,Paytm Mall, Noida,2010,3,795000000," E-Commerce, E-Commerce Platforms, Internet, Marketplace, Retail, Shopping", Vijay Shekhar Sharma, 1001-5000,4
+272,Hopscotch, Mumbai,2011,5,52800000," E-Commerce, Internet, Retail", Rahul Anand, 251-500,16
+273,Setu, Bengaluru,2018,2,18549687, Financial Services, Sahil Kini, 11-50,4
+274,Blue Tokai Coffee Roasters, Delhi,2012,3,5569257," Consumer Goods, Delivery, Food and Beverage, Food Processing"," Matt Chitharanjan, Namrata Asthana", 1-10,4
+275,Avanse Financial Services, Mumbai,2012,3,60157500," Education, Finance, Real Estate, Service Industry", Amit Gainda, 251-500,2
+276,Gaana, Noida,2011,3,166195349," Apps, Music, Music Streaming, Online Portals", Avinash Mudaliar, 251-500,3
+277,LiquiLoans, Mumbai,2018,3,1784442, Financial Services," Achal Mittal, Gautam Adukia", 11-50,6
+278,Clovia, Noida,2012,5,22685276," E-Commerce, Fashion, Lingerie, Retail, Women's"," Neha Kant, Pankaj Vermani, Suman Chowdhury", 251-500,7
+279,Scripbox, Bengaluru,2012,4,23500000," Angel Investment, Finance, Financial Services, FinTech, Wealth Management"," Ashok Kumar, Atul Shinghal, Sanjiv Singhal", 101-250,12
+280,RateGain, Noida,2004,1,50000000," Hospitality, Information Technology, Travel", Bhanu Chopra, 501-1000,1
+281,Epigamia, Mumbai,2007,10,56286865," Consumer, Fast-Moving Consumer Goods, Food and Beverage, Health Care, Nutrition, Snack Food"," Ganesh Krishnamoorthy, Milap Shah, Rahul Jain, Rohan Mirchandani, Rohan Mirchandani, Uday Thakker", 101-250,8
+282,MCaffeine, Mumbai,2015,4,5781631," Beauty, Consumer, Consumer Goods, E-Commerce, Lifestyle"," Tarun Sharma, Vikas Lachhwani", 11-50,7
+283,Chaayos, New Delhi,2012,6,40833000," Food and Beverage, Food Delivery, Restaurants, Tea"," Nitin Saluja, Raghav Verma", 1001-5000,9
+284,TVF, Mumbai,2015,3,20970000," Digital Entertainment, E-Commerce, Film, Internet, Media and Entertainment", Dhawal Gusain, 101-250,1
+285,WOW Skin Science India Ltd, Bengaluru,2016,1,3730000000," Beauty, Consumer Goods, Cosmetics, Fashion", Nagaraj Mylandla, 1001-5000,1
+286,Financial Software & Systems, Chennai,1991,4,129250000," Debit Cards, Financial Services, FinTech, Information Services, Information Technology, Mobile Payments, Payments, Software, Transaction Processing",Wow Skin,100,4
+287,Ezetap, Bengaluru,2011,6,51000000," Mobile, Payments, Point of Sale, Software"," Abhijit Bose, Bala Parthasarathy, Bhaktha Keshavachar, Sanjay Swamy, Shripati Acharya", 101-250,8
+288,Financepeer, Mumbai,2017,3,3709141," Financial Services, FinTech, Peer to Peer"," Debi Prasad Baral, Naveesh Reddy, Rohit Gajbhiye, Sunit Gajbhiye", 11-50,9
+289,Haptik, Mumbai,2013,2,12200000," Artificial Intelligence, Customer Service, Machine Learning, Messaging, Real Time, Software"," Aakrit Vaish, Swapan Rajdev", 101-250,3
+290,GirnarSoft, Jaipur,2007,5,108650000," Developer Tools, Enterprise Software, Mobile, Software, Web Development"," Amit Jain, Anurag Jain", 501-1000,5
+291,Meesho, Bengaluru,2015,9,515200000," E-Commerce, E-Commerce Platforms, Mobile Apps, Retail, Social Media"," Sanjeev Barnwal, Vidit Aatrey", 1001-5000,25
+292,Lenskart, Faridabad,2010,10,554629632," Delivery, E-Commerce, Eyewear, Fashion, Health Care, Internet, Shopping"," Amit Chaudhary, Peyush Bansal", 251-500,15
+293,Udaan, Bengaluru,2016,6,1179919113," B2B, Business Development, E-Commerce, Internet, Retail"," Amod Malviya, Sujeet Kumar, Vaibhav Gupta", 5001-10000,13
+294,Zolve, Bengaluru,2020,1,15000000," Banking, Financial Services", Ravi Gupta, 11-50,9
+295,SafexPay, Thane,2017,1,440000000," FinTech, Payments",Zolve, 51-100,2
+296,Pariksha, Pune,2015,7,6065079," E-Learning, EdTech, Education, Skill Assessment"," Deepak Choudhary, Karanvir Singh Shekhawat, Utkarsh Bagri, Vikram Shekhawat", 51-100,20
+297,Fyllo, Bengaluru,2019,4,557033," Agriculture, AgTech, Artificial Intelligence, Internet of Things"," Sachin Gautam, Sudhanshu Rai, Sumit Sheoran", 11-50,6
+298,CredFlow, New Delhi,2019,1,152000000," Credit, Financial Services", Kunal Aggarwal, 1-10,4
+299,HalaPlay Technologies, Bengaluru,2016,3,7964767," Digital Entertainment, Fantasy Sports, Sports", Swapnil Saurav, 1-10,8
